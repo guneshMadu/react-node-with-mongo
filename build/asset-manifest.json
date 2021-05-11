@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/guneshMadu/react-node-with-mongo/static/js/main.7ebb099d.chunk.js",
+    "main.js.map": "/guneshMadu/react-node-with-mongo/static/js/main.7ebb099d.chunk.js.map",
+    "runtime-main.js": "/guneshMadu/react-node-with-mongo/static/js/runtime-main.6dce4286.js",
+    "runtime-main.js.map": "/guneshMadu/react-node-with-mongo/static/js/runtime-main.6dce4286.js.map",
+    "static/css/2.800be05e.chunk.css": "/guneshMadu/react-node-with-mongo/static/css/2.800be05e.chunk.css",
+    "static/js/2.c043c84f.chunk.js": "/guneshMadu/react-node-with-mongo/static/js/2.c043c84f.chunk.js",
+    "static/js/2.c043c84f.chunk.js.map": "/guneshMadu/react-node-with-mongo/static/js/2.c043c84f.chunk.js.map",
+    "index.html": "/guneshMadu/react-node-with-mongo/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/guneshMadu/react-node-with-mongo/static/css/2.800be05e.chunk.css.map",
+    "static/js/2.c043c84f.chunk.js.LICENSE.txt": "/guneshMadu/react-node-with-mongo/static/js/2.c043c84f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dce4286.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.c043c84f.chunk.js",
+    "static/js/main.7ebb099d.chunk.js"
+  ]
+}
